@@ -14,7 +14,6 @@ const divisas = [
 const carrito = document.getElementById('carrito');
 
 function agregarElementoAlCarrito() {
-    // Lógica para agregar elemento al carrito
 }
 
 agregarElementoAlCarrito();
